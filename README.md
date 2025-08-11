@@ -60,3 +60,8 @@ The training history and final evaluation metrics are provided to assess the mod
 
 ## 📝 License
 This project is for learning purposes and can be modified freely.
+
+---
+
+## Streamlit app
+(https://arrgupt-cat-vs-dog-classification-app-wusgqm.streamlit.app/)
